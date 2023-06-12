@@ -12,7 +12,10 @@
     "linebreak-style": "off",
     "require-jsdoc": "off",
     "indent": "off",
-    "eol-last": "off"
+    "eol-last": "off",
+    "no-trailing-spaces": "off",
+    "operator-linebreak": "off",
+    "max-len": "off"
   },
   "extends": ["eslint:recommended", "google"]
 }
